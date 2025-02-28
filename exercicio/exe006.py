@@ -14,4 +14,5 @@ for c in range(num):
     cont = cont+1
     media = (total/cont)
 
-print(f"A media dos valores é igual a {media}")
+print(f"A media dos valores é igual a {media:.3f}")
+
